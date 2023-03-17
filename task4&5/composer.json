@@ -1,0 +1,16 @@
+{
+
+    "name": "lab4/5",
+    "description": "glasses store",
+    "type": "project",
+
+    "require": {},
+    "autoload": {
+
+        "classmap": ["models"],
+        "files": ["config.php"]
+    }
+}
+
+
+   
